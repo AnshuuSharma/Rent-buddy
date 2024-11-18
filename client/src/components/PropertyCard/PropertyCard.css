@@ -1,0 +1,50 @@
+.r-card{
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    /* padding:0.4rem; */
+    border-radius: 10px;
+    max-width:15rem;
+    margin: 1rem;
+    transition: all 300ms ease-in;
+    position: relative;
+    z-index: 0;
+}
+.text{
+    color:rgb(140, 139, 139);
+    font-size: 0.7rem;
+}
+.r-card>svg{
+    position: absolute;
+    top: 25px;
+    right:2px;
+    z-index: 1;
+    color: white;
+}
+.r-card>img{
+    width: 15rem;
+    height: 10rem;
+    border-radius: 15px;
+}
+.r-card>:nth-child(3){
+    font-size: 1rem;
+    font-weight: 600;
+}
+.r-card>:nth-child(4){
+    font-size: 1.2rem;
+    width: 15rem;
+}
+.r-card>:nth-child(4+5){
+    font-size: 0.6rem;
+    width: 15rem;
+}
+.r-card:hover{
+    scale:1.025;
+    cursor: pointer;
+    background: linear-gradient(
+        180deg,
+        rgba(255,255,255,0)0%,
+        rgba(193, 136, 255, 0.46)217.91%
+    );
+    box-shadow: 0px 72px 49px -51px rgba(19, 11, 23, 0.089);
+}

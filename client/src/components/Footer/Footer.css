@@ -1,0 +1,31 @@
+.fwrapper {
+    color: white;   
+    padding: 1rem;
+    height: auto; 
+    min-height: 150px;
+    
+}
+
+.f-container {
+    border-top: .5px solid rgba(6, 6, 6, 0.148);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+   
+}
+
+.f-left {
+    gap: 1rem;
+    flex: 1;
+}
+
+.f-container > div {
+    flex: 1;
+}
+
+
+@media(max-width:640px){
+   .footer-des{
+    font-size:0.8rem;
+   }
+}

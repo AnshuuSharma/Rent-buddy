@@ -1,0 +1,16 @@
+.avatar {
+    width: 40px; /* Set a specific width */
+    height: 40px; /* Set the same height */
+    border-radius: 50%; /* Ensure it is circular */
+    overflow: hidden; /* Hide overflow to maintain circle shape */
+  }
+  .avatar img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%; /* Ensures the image remains circular */
+  }
+  .mantine-Menu-item {
+    display: block; /* Ensure items are displayed in a block (stacked vertically) */
+    width: 100%;    /* Ensure it takes up the full width */
+  }    

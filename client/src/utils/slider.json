@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+        "name":"ALiva Priba Jardin",
+        "price":"47,043",
+        "details":"Jakarta Green City Street , Cakung, Pulo Gdung, Jakrata",
+        "image":"./house.jpeg"
+    },
+    {     "id":2,
+        "name":"Priba Jardin",
+        "price":"47,043",
+        "details":"Jakarta apple part street no.89 , Cakung, Pulo seittle ace joe, Jakrata",
+         "image":"./house.jpeg"
+    },
+    {    "id":3,
+        "name":"ALiva Priba Jardin",
+        "price":"47,043",
+        "details":"Jakarta Green City Street , Cakung, Pulo Gdung, Jakrata",
+        "image":"./house.jpeg"
+    },
+    {    "id":4,
+        "name":"Priba Jardin",
+        "price":"47,043",
+        "details":"Jakarta apple part street no.89 , Cakung, Pulo seittle ace joe, Jakrata",
+        "image":"./house.jpeg"
+    },
+    {    "id":5,
+        "name":"ALiva Priba Jardin",
+        "price":"47,043",
+        "details":"Jakarta Green City Street , Cakung, Pulo Gdung, Jakrata",
+         "image":"./house.jpeg"
+    },
+    {    "id":6,
+        "name":"Priba Jardin",
+        "price":"47,043",
+        "details":"Jakarta apple part street no.89 , Cakung, Pulo seittle ace joe, Jakrata",
+         "image":"./house.jpeg"
+    },
+    {    "id":7,
+        "name":"ALiva Priba Jardin",
+        "price":"47,043",
+        "details":"Jakarta Green City Street , Cakung, Pulo Gdung, Jakrata",
+         "image":"./house.jpeg"
+    }
+]
